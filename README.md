@@ -1,7 +1,7 @@
 # Voice-Controlled-Arduino-Car
 The Voice Controlled Arduino Car is an embedded systems and robotics project that enables a robotic vehicle to move based on voice commands received from a smartphone. The system uses Bluetooth communication to transmit commands, while the Arduino UNO processes these commands and controls the motors through a motor driver.
 
-Features
+**Features**
 
 ● Voice-controlled navigation
 
@@ -15,8 +15,9 @@ Features
 
 ● Compact and portable
 
-Voice Controlled Car using Arduino
-Working Principle
+<img width="1237" height="1600" alt="Voice Controlled Car using Arduino" src="https://github.com/user-attachments/assets/48fed3a2-9235-4875-8972-931fb0bb45ea" />
+
+**Working Principle**
 
 The user speaks a command through a smartphone.
 The Android application converts speech into text.
@@ -25,6 +26,7 @@ Arduino UNO receives the command.
 Arduino processes the command.
 The L293D motor driver controls the motors.
 The robotic car moves according to the command.
-Conclusion
+
+**Conclusion**
 
 The Voice Controlled Car Using Arduino Uno is an effective robotics project that combines embedded systems, Bluetooth communication, and voice recognition. It provides a practical understanding of Arduino programming, motor control, and wireless automation while serving as a foundation for advanced robotic applications.
